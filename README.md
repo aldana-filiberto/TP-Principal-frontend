@@ -56,7 +56,7 @@ Este es un proyecto académico de un sistema de gestión web desarrollado en **R
 
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/aldana-filiberto/TP-Principal-frontend
 
 npm install
 
